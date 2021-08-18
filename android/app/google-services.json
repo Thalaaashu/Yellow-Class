@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217305740790",
+    "project_id": "moviestore321",
+    "storage_bucket": "moviestore321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217305740790:android:99de01ac8f21f448a543d7",
+        "android_client_info": {
+          "package_name": "com.snitusolution.mymovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217305740790-a8te100g0l9qcqlbhbg68248igsm8jp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSqGQsdmxL2UfrwIvodA-9eb88imtSRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217305740790-a8te100g0l9qcqlbhbg68248igsm8jp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
